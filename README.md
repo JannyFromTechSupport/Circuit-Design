@@ -1,3 +1,9 @@
-# Circuit-Design 
+# Practical Demonstration of Ohm's Law 
 
-This repository contains circuit design work for ICS 4111: Embedded Systems & IoT. It includes schematic diagrams, calculations, and component tables for series, parallel, and Arduino Nano circuits designed using EasyEDA. 
+This branch contains the work for ICS 4111: Embedded Systems & IoT Practical Exercise 3. It includes lab documentation, experiment results and a team photo. 
+
+<img width="1560" height="1170" alt="WhatsApp Image 2026-05-20 at 18 44 57" src="https://github.com/user-attachments/assets/a0bf9c16-d85f-48c4-966d-e813a31eb173" />
+
+--- 
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/2500745d-38a0-4b70-9eeb-2d709cfa02a1" />
