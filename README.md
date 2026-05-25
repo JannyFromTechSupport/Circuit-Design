@@ -11,10 +11,9 @@ This branch contains the work for ICS 4111: Embedded Systems & IoT Practical Exe
 --- 
 
 ## Authors
-- Sharon Njogorio - 164110 
+- [Sharon Njogorio](https://github.com/sharonnjogorio) - 164110 
 - [Janny Jonyo](https://github.com/JannyFromTechSupport) - 166885
 - [Cindy Ogutu](https://github.com/Bliss109) - 158842 
 - [Dennis Mukoma](https://github.com/Murags) - 139360 
 - [Kristina Kemoi](https://github.com/Kr1st1naK) - 168652
 - [Neema Mapelu](https://github.com/NMapelu) - 150176 
-  
